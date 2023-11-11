@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://lbxx2114.github.io/Devin.github.io/</id>
+    <id>https://http://devin.com/</id>
     <title>Gridea</title>
-    <updated>2023-11-11T03:29:54.465Z</updated>
+    <updated>2023-11-11T03:38:34.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://lbxx2114.github.io/Devin.github.io/"/>
-    <link rel="self" href="https://https://lbxx2114.github.io/Devin.github.io/atom.xml"/>
+    <link rel="alternate" href="https://http://devin.com/"/>
+    <link rel="self" href="https://http://devin.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://lbxx2114.github.io/Devin.github.io/images/avatar.png</logo>
-    <icon>https://https://lbxx2114.github.io/Devin.github.io/favicon.ico</icon>
+    <logo>https://http://devin.com/images/avatar.png</logo>
+    <icon>https://http://devin.com/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>https://https://lbxx2114.github.io/Devin.github.io/post/ce-shi/</id>
-        <link href="https://https://lbxx2114.github.io/Devin.github.io/post/ce-shi/">
+        <id>https://http://devin.com/post/ce-shi/</id>
+        <link href="https://http://devin.com/post/ce-shi/">
         </link>
         <updated>2023-11-11T02:51:49.000Z</updated>
         <content type="html"><![CDATA[<p>666</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://lbxx2114.github.io/Devin.github.io/post/hello-gridea/</id>
-        <link href="https://https://lbxx2114.github.io/Devin.github.io/post/hello-gridea/">
+        <id>https://http://devin.com/post/hello-gridea/</id>
+        <link href="https://http://devin.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
